@@ -1,3 +1,5 @@
+# Подразумевается что все файлы лежат в одной директории
+
 from human import Human
 from student import Student
 from group import Group
